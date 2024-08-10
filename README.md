@@ -1,4 +1,4 @@
-![logo](https://github.com/Sujitkrh/Sujitkrh/blob/main/1.png)
+![logo](https://github.com/Sujitkrh/Sujitkrh/blob/main/head.png)
 <h1 align="center">Hi 👋, I'm Sujit Kumar Halder</h1>
 <h3 align="center">A passionate programmer from India</h3>
 <img align="right" alt="coding" width="300"
